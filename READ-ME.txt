@@ -3,4 +3,4 @@ K Multiplier Calculator.xlsx
 	
 	
 MAF Table Converter.xlsx
-	Converts Hexa Values copied from UpRev Rom Editor to Decimal helping MAF rescaling
+	Converts Hexa Values copied from UpRev Rom Editor to Decimal helping the MAF rescaling procedure
