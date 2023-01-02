@@ -1,0 +1,6 @@
+K Multiplier Calculator.xlsx
+	Helps calculing K Multiplier value when using Gas/Ethanol mixture or changing Injector and MAF Housing 
+	
+	
+MAF Table Converter.xlsx
+	Converts Hexa Values copied from UpRev Rom Editor to Decimal helping MAF rescaling
